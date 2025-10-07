@@ -34,7 +34,7 @@ jobs:
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v2
         with:
-          app-name: 'iottu-java'
+          app-name: 'ultimateteam-java'
           slot-name: 'production'
           publish-profile: ${{ secrets.AzureAppService_PublishProfile_64a2dd6fba0343599306073077a965c8 }}
           package: '${{ github.workspace }}/target/*.jar'
