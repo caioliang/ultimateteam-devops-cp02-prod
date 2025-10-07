@@ -1,0 +1,14 @@
+
+ls -l
+
+chmod +x create-sql-server.sh
+
+./create-sql-server.sh
+
+ls -l
+
+chmod +x deploy-ultimateteam.sh
+
+./deploy-ultimateteam.sh
+
+
