@@ -16,7 +16,7 @@ export APP_SERVICE_PLAN="planUltimateteam"
 # Altere a sua região conforme orientação do Professor
 export LOCATION="brazilsouth"
 export RUNTIME="JAVA:17-java17"
-export GITHUB_REPO_NAME="caioliang/ultimateteam-devops-cp02"
+export GITHUB_REPO_NAME="caioliang/ultimateteam-devops-cp02-prod"
 export BRANCH="main"
 export APP_INSIGHTS_NAME="ai-ultimateteam"
 
